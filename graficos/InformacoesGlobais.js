@@ -11,3 +11,5 @@ async function vizualizarInformacoesGlobais() {
 vizualizarInformacoesGlobais()
 
 
+<!-- módulo 5 video e minuto 4:38 -->
+
